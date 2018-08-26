@@ -1,5 +1,110 @@
 # Servizi di Hacking
 
+## NSA Tailored Access Operations
+
+Servizi offerti dal _National Security Agency_ ad agenzie esecutive americane.
+Qualcosa di simile è fornito in Cina dal _People's Liberation Army 2nd bureau - 3rd department_ (3PLA)
+
+* Targeted Surveillance
+* Impianto di Backdoors
+* Exploits su target
+* Data exfiltration
+* Location tracking
+* Escalation a KIll List e “handover” a CIA Spec Ops o equivalente cinese
+* Usa _standards_ per l'interoperabilità dei suoi prodotti, come QUANTUMINSERT e FOXACID
+* Infezione iniziale con redirezioni su server che assomigliano a server web Apache
+* Molti programmi scritti in Python
+* A volte hanno anche dei bachi
+
+### Esempio: SIM Cards
+
+Le SIM Moderne (fase 2+) la hanno SIM Toolkit API (STK):
+
+* Esecuzione di comandi e richieste al FW del telefono
+* Può essere aggiornato da USB o direttamente dal Vendor come upgrade (contratto obbligatorio?)
+* Molti (tutti?) vendor sono in collaborazione con NSA (e Huawei anche 3PLA?)
+
+I pacchetti malefici sono iniettati con gli upgrade: il sofware si chiama MONKEYCALENDAR
+
+* Compilato per ogni specifico modello e in continua evoluzione
+* Permette il **Data Exfiltration**: SMS ignote al possessore (quasi sempre gratuite)
+* Gelocation
+* Intervalli raccolta dati configurabili
+* In standby per Diniego di Servizio
+
+### Interdiction
+
+Merce IT ordinata da USA tramite corriere:
+
+* Tutti (?) i corrieri cooperano
+* La merce viene intercettata dal NSA
+* Componenti selezionati dell'HW sono sostituiti con componenti infetti
+* La merce è reimpacchettata professionalmente e fatta proseguire
+
+Talvolta l'Interdiction avviene presso i Vendor stessi.
+
+Pare sia molto comune coi prodotti cinesi.
+
+### NSA Ant Catalog
+
+Catalogo del 2008 di prodotti a disposizione per l'acquisto da parte di agenzie nazionali americane autorizzate.
+
+#### NightStand
+
+![NightStand](../gitbook/images/nightstand.png)
+
+Equipaggiamento standard operativo NSA almeno dal 2008 per _Close Access Operations_:
+
+* Sniffer e Packet Injector da campo
+* Hardened PC con Fedora Core di base
+* In continua evoluzione
+* Solitamente in un furgoncino o van
+* Attacchi WiFi
+  * Target: tutti i Windows
+  * Iniezione vettori e payload
+* Può usare amplificatori e antenne esterne
+* Non è rilevato dal target
+
+#### Altri Esempi
+
+P.es. alcune versioni HP Proliant, non tutte e non solo
+
+* HW Implant: WAGONBED
+  * Comunica tramite l'interfaccia I2C
+* HW Implant: IRONCHEF
+  * Essenzialmente un backdoor che monitorizza la presenza continuativa di un determinato malware software impiantato
+  * Se l'utente, accorgendosi del malware, lo rimuove - comunica col distributore del malware, ne ottiene una nuova copia e reinfetta il computer
+* USB tap: FIREWALK e COTTONMOUTH (50 per $200)
+
+![Firewalk](../gitbook/images/firewalk.png)
+
+* Impianto su scheda madre: GODSURGE
+  * Alcune versioni Dell PowerEdge
+  * Costo $500
+  * Configurabile da remoto
+
+![GodSurge](../gitbook/images/godsurge.png)
+
+* Impianti su scheda madre: HOWLERMONKEY
+
+![HowlerMonkey](../gitbook/images/howlermonkey.png)
+
+* HW Implant: RAGEMASTER
+  * Trasmette il canale rosso VGA
+  * Standard VAGRANT
+  * Programmi con cui interagisce:
+    * NIGHTWATCH
+    * GOTHAM
+    * VIEWPLATE
+
+![RageMaster](../gitbook/images/ragemaster.png)
+
+* Attivato da illuminatore CW CTX4000
+  * Standard VAGRANT e DROPMIRE
+  * fino a 100 W sul bersaglio
+
+![CTX4000](../gitbook/images/ctx4000.png)
+
 ## Hacking-as-a-Service
 
 Sia ditte che gruppi che privati offrono servizi di hacking a pagamento. La situazione legale può essere incerta, come per il commercio di armi.

@@ -11,10 +11,9 @@ Negli ultimi anni il panorama della Cybersecurity è cambiato drasticamente. Non
 * La società è altamente dipendente da procedure ed operazioni on line
   * Non è possibile un ritorno al passato
   * La consapevolezza della sicurezza informatica è scarsa
-* E' come condurre guerre di difesa nuove con armi e mentalità vecchie
-  * I protocolli di rete e gli applicativi sono deboli
+  * E' come condurre guerre di difesa nuove con armi e mentalità vecchie
+* I protocolli di rete e gli applicativi sono deboli
   * Il design di sicurezza è un costo aggiuntivo
-
 * La difendibilità totale è impossibile
   * Tutti i sistemi informativi sono vulnerabili per loro proprietà intrinseche
   * Il crimine informatico è estensione del crimine fisico
@@ -37,15 +36,15 @@ Le contromisure da adottare sono dello stesso tipo di quelle della Medicina:
 
 La sicurezza significa cose diverse per persone diverse.
 
-* Ufficiale addetto alla sicurezza
+* **Ufficiale** addetto alla sicurezza
   * Protezione
   * Confidenzialità, Integrità, Disponibilità
   * Fiducia
-* Manager
+* **Manager**
   * Costo e lavoro aggiuntivo
   * Richieste indesiderate
   * Impossibile
-* Utente
+* **Utente**
   * Regole irragionevoli
   * Ostacolo al lavoro produttivo
   * Necessità di corsi di aggiornamento
@@ -59,9 +58,9 @@ In realtà la sicurezza deve essere una preoccupazione di tutti:
 
 Necessità:
 
-* Renderla possibile
-* Renderla semplice
-* Evidenziare il progresso e i risultati
+* Renderla **possibile**
+* Renderla **semplice**
+* Evidenziare il **progresso** e i risultati
 
 ### Trends della Sicurezza Informatica
 

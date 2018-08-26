@@ -10,6 +10,8 @@
   * [Attaccanti](02netsec/020attaccanti.md)
   * [Attacchi](02netsec/030attacchi.md)
   * [Servizi di Hacking](02netsec/040servizi.md)
+  * [Debolezze dei Protocolli](02netsec/050proto.md)
+  * [Target Analysis](02netsec/060target.md)
 * [Sicurezza IoT](03iotsec/README.md)
 * [Pratica della Sicurezza](04pratics/README.md)
 * [Conclusione](conclusione.md)

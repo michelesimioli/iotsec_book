@@ -9,12 +9,12 @@ La guerra cibernetica (Cyberwar) è guerra con strumenti moderni basati (anche) 
 
 ### Aspetti
 
-* Guerra fredda
+* Guerra **fredda**
   * _SigInt_ - acquisizione di intelligence, spionaggio
   * _PsyOps_ - operazioni di attacco psicologico subdolo
   * Acquisizione di capabilities ed esperienze
   * Interazione con agenzie di Intelligence ed Operazioni
-* Guerra calda
+* Guerra **calda**
   * _Command & Control_ - dominanza IT del campo operativo
   * _CyberWarfare_ - operazioni IT che causano danni fisici
   * _Cyber-Kinetic Warfare_ - supporto IT ad operazioni fisiche
@@ -58,6 +58,15 @@ La guerra cibernetica (Cyberwar) è guerra con strumenti moderni basati (anche) 
 * **PRISM**
   * Programma US di cattura globale di tutti i dati
   * Praticamente tutti i maggiori protocolli crittografici sono decrittati
+
+
+#### XKeyScore
+
+Captazione internazionale di email, siti web visitati e ricerche Google effettuate, tramite stazioni di intercettazione dati e **Deep Packet Inspection** (_DSI_) - sniffer globale.
+
+Con piena cooperazione dei Service Provider.
+
+![XKey](../gitbook/images/xkey.png)
 
 ## Policies di Ritenzione Dati
 
@@ -171,10 +180,10 @@ Sono i sistemi e le reti della vittima visibili dalla posizione topologica dell�
 
 Hanno importanza particolare sulla superficie di attacco:
 
-* Vulnerabilità
+* **Vulnerabilità**
   * Debolezze del software o mancanza di patch
   * Sistemi vecchi non più aggiornabili
-* Esposizioni
+* **Esposizioni**
   * Cattive configurazioni, comportamenti degli utenti o amministratori
 
 I sistemi sulla superficie di attacco devono essere **blindati**.
@@ -206,11 +215,11 @@ Una distinzione sulla base delle loro intenzioni è:
 
 Ora va più di moda considerare il _colore dei cappelli_:
 
-* White Hat
+* **White Hat**
   * Guru 'buono'
-* Black Hat
+* **Black Hat**
   * Guru 'cattivo'
-* Grey Hat
+* **Grey Hat**
   * Guru potenzialmente o saltuariamente 'cattivo', al momento al soldo dei 'buoni'
 
 I difensori principali sono:
@@ -224,23 +233,23 @@ Le _caratteristiche degli hacker sono, sotto due punti di vista:
 
 #### Scopi (perchè lo fanno?)
 
-* Bravata personale
+* **Bravata personale**
   * Esibizione nei confronti dei pari
   * Acquisizione conoscenze
-* Utilizzo sistemi
+* **Utilizzo sistemi**
   * Storaggio di materiale illegale
   * Piattaforme di transito o d'attacco (powned)
   * Botnets
 
 #### Filosofie Hacker
 
-* Libertaria – anarchica
+* **Libertaria** – anarchica
   * Contro i segreti e il copyright
     * Pirati
-* Distruttiva – nichilista
+* **Distruttiva** – nichilista
   * La tecnologa è l'impero del male
     * Hacktivists
-* Cyberpunk – William Gibson e Bruce Sterling
+* **Cyberpunk** – cf. gli autori William Gibson e Bruce Sterling
 
 Hackers e Crackers sono una suddivisione vecchia: gli hackers erano semplici “smanettoni” curiosi e i crackers quelli malefici. Non si usa più.
 
